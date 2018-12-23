@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon Like Store",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadeghsachedina/Bamazon.git"
+  },
+  "author": "Sadegh Sachedina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadeghsachedina/Bamazon/issues"
+  },
+  "homepage": "https://github.com/sadeghsachedina/Bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0",
+    "require": "^2.4.20"
+  }
+}
